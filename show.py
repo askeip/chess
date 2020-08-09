@@ -1,3 +1,5 @@
+import sys
+
 def interruption():
     move = input(sys.argv)
     x = int(move[0])
